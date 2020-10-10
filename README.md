@@ -1,0 +1,2 @@
+# training
+basics of git
